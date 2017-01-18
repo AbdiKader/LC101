@@ -1,0 +1,33 @@
+html {
+	font-size: 18px;
+	background-color: lightgrey
+}
+#image {
+	height: 200px;
+	width: 200px;
+	border-radius: 15px;
+
+}
+.headers {
+	border: 2px dashed black;
+	text-align: center;
+	margin-left: 50px;
+	margin-right: 50px;
+	padding: 3px 3px;
+}
+.header {
+	border: 2px dashed black;
+	text-align: center;
+	margin-left: 50px;
+	margin-right: 50px;
+	padding: 3px 3px;
+}
+p{
+	margin: 0px 10px 0px 10px;
+	font-size: 1.2rem;
+	font-family: Times;
+	text-align: center;
+	padding: 5px 5px
+
+
+}
